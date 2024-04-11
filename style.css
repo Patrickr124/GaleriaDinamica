@@ -1,0 +1,28 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#addButton {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  background-color:  rgba(17, 17, 44, 0.404);;
+  color: white;
+  flex-direction: column;
+  display: flex;
+  margin: 13px;
+  border-radius: 10px;
+}
+
+#removeButton {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  background-color: rgba(17, 17, 44, 0.404);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+}
